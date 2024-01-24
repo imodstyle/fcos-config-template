@@ -41,7 +41,7 @@
           "wheel",
           "sudo"
         ],
-        "name": "tomster",
+        "name": "imodstyle",
         "sshAuthorizedKeys": [
           "ssh-ed25519 3coDl1UE8+w4WW26oPjTegGipu708/7BDNfe/xMCOb8 donnyrahardika@gmail.com"
         ]
