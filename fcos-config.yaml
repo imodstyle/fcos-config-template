@@ -4,7 +4,7 @@ passwd:
   users:
     - name: imodstyle
       ssh_authorized_keys:
-        - ssh-ed25519 
+        - ssh-ed25519 3coDl1UE8+w4WW26oPjTegGipu708/7BDNfe/xMCOb8 donnyrahardika@gmail.com
       groups:
         - wheel
         - sudo
@@ -363,7 +363,7 @@ storage:
           }
   links:
     - path: /etc/localtime
-      target: ../usr/share/zoneinfo/America/New_York
+      target: ../usr/share/zoneinfo/Asia/Jakarta
     - path: /etc/systemd/system/multi-user.target.wants/unbound.service
       target: /usr/lib/systemd/system/unbound.service
     - path: /etc/systemd/system/multi-user.target.wants/tuned.service
